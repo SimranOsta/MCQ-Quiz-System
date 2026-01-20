@@ -4,7 +4,7 @@ An interactive online platform designed to help students and professionals asses
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 The **Web-Based MCQ Quiz System** bridges the gap between traditional learning and interactive assessments. It allows users to:
 - Log in securely
 - Select a programming language and topic
@@ -14,17 +14,17 @@ The **Web-Based MCQ Quiz System** bridges the gap between traditional learning a
 
 ---
 
-## 🚀 Features
-- 🔐 **Secure Authentication** – User registration and login system
-- 📚 **Three Languages Supported** – C, Java, Python
-- 📝 **Topic-Wise Question Bank** – Each language has 3 topics, 10 questions each
-- ⚡ **Real-Time Validation** – Immediate feedback on answers
-- 💾 **Score Storage** – Results saved for later review
-- 📊 **Responsive Design** – Works across devices
+## Features
+-  **Secure Authentication** – User registration and login system
+-  **Three Languages Supported** – C, Java, Python
+-  **Topic-Wise Question Bank** – Each language has 3 topics, 10 questions each
+-  **Real-Time Validation** – Immediate feedback on answers
+-  **Score Storage** – Results saved for later review
+-  **Responsive Design** – Works across devices
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 **Frontend**
 - HTML – Page structure
 - CSS – Styling and layout
@@ -36,7 +36,7 @@ The **Web-Based MCQ Quiz System** bridges the gap between traditional learning a
 
 ---
 
-## 🗄️ Database Design
+## Database Design
 - **Users Table** – Stores user credentials (username, email, password)
 - **Questions Table** – Stores quiz questions and options
 - **Answers Table** – Stores correct answers
@@ -44,7 +44,7 @@ The **Web-Based MCQ Quiz System** bridges the gap between traditional learning a
 
 ---
 
-## 🔄 System Workflow
+## System Workflow
 1. **Login Page** – User authentication (sign up / log in)
 2. **Welcome Page** – Language and topic selection
 3. **Quiz Page** – Dynamic question presentation
@@ -53,7 +53,7 @@ The **Web-Based MCQ Quiz System** bridges the gap between traditional learning a
 
 ---
 
-## 👩‍💻 Team Members
+## Team Members
 - Ishika Bandopadhyay (UCSE23027) – Testing & Debugging  
 - Priyanka Priyadarsani Das (UCSE23042) – Frontend Development  
 - Swayam Mishra (UCSE23060) – Backend Development  
@@ -65,7 +65,7 @@ Course: **Web Technology**
 
 ---
 
-## ⚠️ Challenges Faced
+## Challenges Faced
 - Implementing secure authentication
 - Managing database connectivity
 - Randomizing questions while ensuring uniqueness
@@ -73,7 +73,7 @@ Course: **Web Technology**
 
 ---
 
-## 🌟 Future Enhancements
+## Future Enhancements
 - Leaderboard for top scores
 - User progress tracking
 - Enhanced UI/UX with animations
@@ -81,12 +81,12 @@ Course: **Web Technology**
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 The **Web-Based MCQ Quiz System** provides an engaging and efficient way to test programming knowledge. With real-time scoring and structured quizzes, it enhances learning and makes self-assessment more interactive.
 
 ---
 
-## 📂 How to Run
+## How to Run
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/web-mcq-quiz-system.git
